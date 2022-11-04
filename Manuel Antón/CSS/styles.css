@@ -1,0 +1,169 @@
+body {
+    font-size: 90%;
+    font-family: Century Gothic;
+    line-height: 0.15em;
+    background-color: #f9be6b;
+}
+
+#cuadro {
+    width: 940px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    background-color: white;
+}
+
+figure {
+    text-align: center;
+}
+
+#logoxi {
+    height: 120px;
+}
+
+.menu {
+    display: inline;
+}
+
+nav {
+    word-spacing: 60px;
+    font-weight: bold;
+    text-align: center;
+    width: 850px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-width: 2px;
+    border-bottom-width: 1px;
+    border-bottom-color: #f9be6b;
+    border-top-color: #f9be6b;
+}
+
+.menulinks {
+    color: black;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    padding-left: 18px;
+    padding-right: 18px;
+    text-decoration: none;
+}
+
+.menulinks:hover {
+    color: #f9be6b;
+}
+
+#soyinicio {
+    color: #f9be6b;
+}
+
+#telefonos {
+    width: 400px;
+    height: 400px;
+}
+
+h2 {
+    color: #ff7000;
+}
+
+#caja {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+table {
+    font-size: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+td {
+    border-bottom-color: #f9be6b;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.fototel {
+    width: 150px;
+    height: 150px;
+}
+
+.nombreproductos {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.preciotel {
+    font-weight: bold;
+    color: #ff7000;
+    font-size: 120%;
+}
+
+form {
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 1.6em;    
+}
+
+legend {
+    color: #FF7000;
+    border-color: #ff7000;
+}
+
+.entradas {
+    width: 120px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d6d6d6;
+    padding: 2px;
+}
+
+.entradas:hover {
+    background-color: #f9be6b;
+    color: #ff7000;
+}
+
+.entradas:active {
+    background-color: #f9be6b;
+    color: #ff7000;
+}
+
+#boton {
+    float: right;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #ff7000;
+    background-color: #f9be6b;
+    color: black;
+}
+
+#boton:hover {
+    border-color: black;
+    border-width: 2px;
+    background-color: #f9be6b;
+    color: #ff7000;
+}
